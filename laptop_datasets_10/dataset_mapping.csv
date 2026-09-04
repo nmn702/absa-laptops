@@ -1,0 +1,11 @@
+dataset_number,product_name,review_count,file_name
+1,Apple MacBook AIR Apple M2 - (8 GB/256 GB SSD/Mac OS Monterey)...,400,01_Apple_MacBook_AIR_Apple_M2_8_GB_256_GB_SSD_Mac_OS_Monterey.csv
+2,ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (8 GB/512 GB S...,400,02_ASUS_Vivobook_15_Intel_Core_i5_12th_Gen_1235U_8_GB_512_GB_S.csv
+3,CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SS...,400,03_CHUWI_Intel_Celeron_Dual_Core_11th_Gen_N4020_8_GB_256_GB_SS.csv
+4,HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Win...,330,04_HP_Backlit_Intel_Core_i5_12th_Gen_1235U_8_GB_512_GB_SSD_Win.csv
+5,ASUS TUF Gaming F15 - AI Powered Gaming Intel Core i5 11th Gen...,314,05_ASUS_TUF_Gaming_F15_AI_Powered_Gaming_Intel_Core_i5_11th_Gen.csv
+6,ASUS Vivobook Go 15 OLED AMD Ryzen 3 Quad Core 7320U - (8 GB/5...,310,06_ASUS_Vivobook_Go_15_OLED_AMD_Ryzen_3_Quad_Core_7320U_8_GB_5.csv
+7,DELL Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 1...,302,07_DELL_Intel_Core_i3_12th_Gen_1215U_8_GB_512_GB_SSD_Windows_1.csv
+8,ASUS Vivobook Go 15 OLED AMD Ryzen 5 Quad Core 7520U - (8 GB/5...,300,08_ASUS_Vivobook_Go_15_OLED_AMD_Ryzen_5_Quad_Core_7520U_8_GB_5.csv
+9,Acer Aspire 7 Intel Core i5 12th Gen 12450H - (16 GB/512 GB SS...,300,09_Acer_Aspire_7_Intel_Core_i5_12th_Gen_12450H_16_GB_512_GB_SS.csv
+10,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U - (8 GB/51...,300,10_ZEBRONICS_Pro_Series_Z_Intel_Core_i5_12th_Gen_1235U_8_GB_51.csv
