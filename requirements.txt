@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+rapidfuzz
+spacy
+matplotlib
+seaborn
+emoji
+plotly

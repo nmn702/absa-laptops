@@ -1,0 +1,25 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Models and Large Data Files
+*.pth
+*.bin
+*.safetensors
+*.csv
+cause_model/
+
+# Temporary or older scripts
+app(normal).py
+app(with comparison,).py
+app(with comparison ver2).py
+colab.ipynb
+
+# OS generated files
+.DS_Store
