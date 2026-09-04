@@ -4,7 +4,7 @@ A complete end-to-end NLP pipeline and interactive dashboard for extracting and 
 
 This project uses a combination of fine-tuned Transformer models to not only predict if a review is positive or negative, but to understand *what specific aspect* (e.g., battery life, screen, keyboard) the user is talking about, and *why* they feel that way.
 
-## ✨ Features
+## Features
 - **Aspect Extraction (BERT):** Fine-tuned `bert-base-uncased` to detect laptop-specific terms (battery, screen, touchpad, price, etc.) within raw text.
 - **Sentiment Classification (RoBERTa):** Fine-tuned `roberta-base` to classify the sentiment (Positive, Negative, Neutral) specifically targeting the extracted aspect.
 - **Cause Extraction (QA Pipeline):** Uses a Question-Answering model to determine *why* a user left a specific sentiment (e.g., "Why is the fan negative?" -> "It is too loud").
@@ -13,7 +13,7 @@ This project uses a combination of fine-tuned Transformer models to not only pre
   - **Batch Comparison:** Upload CSVs of laptop reviews and generate a head-to-head professional Radar Chart and report based on user personas (Gamer, Student, Content Creator).
 - **GPU Accelerated:** Automatically leverages NVIDIA CUDA or Apple Silicon (MPS) for lightning-fast batch inference.
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -32,7 +32,7 @@ This project uses a combination of fine-tuned Transformer models to not only pre
    - Download `bert_ae_best_model.pth` (Aspect Extraction Model)
    - Place both files directly into the root folder of this project.
 
-## 💻 Running the App
+## Running the App
 
 Once the dependencies are installed and the models are in the main folder, you can start the dashboard:
 
